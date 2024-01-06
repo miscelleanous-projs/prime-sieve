@@ -26,7 +26,8 @@ bool isPrime(T)(T n) if (isIntegral!T) {
 
 void main() {
     (iota(100).filter!isPrime).writeln;
-}```
+}
+```
 
 ## Output
 
