@@ -2,7 +2,7 @@
 
 I've searched the Github site using `prime sieve language:D` and found out to my surprise that there is one and only one repository dating back to 2015 meeting the criteria.
 
-This repo is for everyone loving Dlang like me... in search of simple prime sieve code example to study. Enjoy!
+This repo is for everyone loving [Dlang](https://dlang.org) like me... in search of simple prime sieve code example to study. Enjoy!
 
 ## Source code
 
